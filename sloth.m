@@ -3,5 +3,6 @@ function sloth()
 %   詳細説明をここに記述
 %1
 %2
+%3
 end
 
